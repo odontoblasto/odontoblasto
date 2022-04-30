@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @odontoblasto
 - 👀 I’m interested in web development...
-- 🌱 I’m currently learning  algorrithms and ADT´s
+- 🌱 I’m currently learning  algorithms and ADT´s
 - 💞️ I’m looking to collaborate on python,html,css,JS..
 - 📫 How to reach me cedfv@cin.ufpe.br
 
